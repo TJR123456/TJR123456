@@ -1,4 +1,4 @@
-### Hi, I'm Trent 👋
+### Hi, I'm Trent 
 
 I do baseball analytics and scouting, working with MLB Statcast and NCAA Division I TrackMan data.
 
